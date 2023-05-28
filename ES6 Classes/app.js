@@ -18,10 +18,28 @@ class Car {
     }
 }
 
-const cx5 = new Car(2, 'v6', 'red');
-const lambo = new Car(5, 'V12', 'BLUE');
+class SUV extends Car {
+    constructor(doors, engine, color, brand) {
+        super(doors, engine, color);
+        this.brand = brand;
+        //default values
+        this.wheels = 4;
+        this.ac = true;
+    }
+
+    myBrand() {
+        return `this car is an SUV of brand ${this.brand} with ${this.wheels} wheels and color ${this.color} and has ${this.engine} engine`;
+    }
+}
+
+const cx5 = new SUV(4, 'V6', 'RED', 'MAZDA');
 console.log(cx5);
-console.log(cx5.carStats());
-console.log(lambo);
-console.log(lambo.carStats());
-console.log(Car.totalDoors(cx5, lambo));
+console.log(cx5.myBrand());
+
+// const cx5 = new Car(2, 'v6', 'red');
+// const lambo = new Car(5, 'V12', 'BLUE');
+// console.log(cx5);
+// console.log(cx5.carStats());
+// console.log(lambo);
+// console.log(lambo.carStats());
+// console.log(Car.totalDoors(cx5, lambo));
