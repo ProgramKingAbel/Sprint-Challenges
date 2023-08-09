@@ -65,5 +65,28 @@ class LinkedList {
 		}
 		this.size--;
 	}
+	addAt(index, item) {
+		if (index < 0 || index > this.size)
+		{
+			return;
+		}
+		if (index === 0)
+		{
+			const newNode = new Node(item, this.head);
+			this.head = newNode;
+			if (!this.tail) {
+				this.tail = newNode;
+			}
+		}
+		else if (index === this.size) {
+			this.add(newNode);
+		}
+		else {
+			const prev_node = this.get(index - 1);
+			const newNode = new Node(item, prev_node.next_node)
+			prev_node.next_node = newNode;
+		}
+		this.size++;
 				
 }
+
