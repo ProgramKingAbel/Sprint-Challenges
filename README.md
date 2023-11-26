@@ -3,4 +3,4 @@
 - Algorithms and Data structures
 - Ruby
 - REST API's / GRAPHQL API
-- OOP
+- OOP Principles
