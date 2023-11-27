@@ -1,0 +1,91 @@
+//IsPowerOfTwo with Bitwise Operations 
+//isPowerOfTwo(2) - true(2^0);
+
+function isPowerOfTwoBitwise(n) {
+  if (n < 0) {
+    return false;
+  }
+  return (n & (n-1)) === 0;
+}
+
+console.log(isPowerOfTwoBitwise(1));
+console.log(isPowerOfTwoBitwise(2));
+console.log(isPowerOfTwoBitwise(5));
+
+// Big O O(1);
+
+// isPowerOfTwo(2) - true(2^0);
+function isPowerOfTwo(n) {
+  
+  if (n < 0) {
+    return false;
+  }
+  
+ while(n > 1) {
+   if (n%2 !== 0) {
+     return false;
+   }
+   n = n/2;
+ }
+  return true;
+}
+
+console.log(isPowerOfTwo(1));
+console.log(isPowerOfTwo(2));
+console.log(isPowerOfTwo(5));
+// Big O - O(logn)
+
+
+
+isPrime()
+
+isPrime(5) true
+function isPrime(n) {
+  for (var i = 2; i < Math.sqrt(n); i++) {
+    if (n%i === 0) {
+      return false;
+    }
+    return true;
+  }
+  return false;
+}
+
+console.log(isPrime(5));
+// Big O - O(sqrt(n))
+
+
+factorial(4) = 4*3*2*1 = 24
+function factorial(n) {
+  if (n === 0) {
+    return 1;
+  } else {
+    let product = 1;
+
+    for (let i = n; i > 0; i--) {
+      product *=i;
+    }
+    return product;
+  }
+}
+
+console.log(factorial(1));
+
+// Big O- O(n)
+
+
+
+fibonacci(7) [0,1,1,2,3,5,8]
+
+function fibonacci(n) {
+
+  let arr = [0, 1];
+
+  for (var i = 0; i < n-2; i++) {
+    arr.push(arr[i] + arr[i+1]);        
+  }
+  return arr;  
+}
+
+console.log(fibonacci(2));
+// Big O- O(n)
+
