@@ -39,7 +39,7 @@ console.log(isPowerOfTwo(5));
 
 isPrime()
 
-isPrime(5) true
+// isPrime(5) true
 function isPrime(n) {
   for (var i = 2; i < Math.sqrt(n); i++) {
     if (n%i === 0) {
@@ -54,7 +54,7 @@ console.log(isPrime(5));
 // Big O - O(sqrt(n))
 
 
-factorial(4) = 4*3*2*1 = 24
+// factorial(4) = 4*3*2*1 = 24
 function factorial(n) {
   if (n === 0) {
     return 1;
