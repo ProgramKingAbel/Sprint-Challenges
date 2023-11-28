@@ -39,7 +39,7 @@ console.log(isPowerOfTwo(5));
 
 isPrime()
 
-// isPrime(5) true
+// isPrime(5) true0-
 function isPrime(n) {
   for (var i = 2; i < Math.sqrt(n); i++) {
     if (n%i === 0) {
