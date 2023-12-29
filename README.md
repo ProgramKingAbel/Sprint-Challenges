@@ -3,5 +3,5 @@
 - Algorithms and Data structures
 - Ruby
 - REST API's / GRAPHQL
-- OOP Principles Abstraction/Encapsulation/Inheritance/Polymorphism
+- Object Oriented Programming Principles Abstraction/Encapsulation/Inheritance/Polymorphism
   
