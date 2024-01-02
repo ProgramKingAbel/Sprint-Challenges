@@ -10,3 +10,4 @@ function towerOfHanoi(n, fromRod, toRod, usingRod){
 }
 
 towerOfHanoi(3, 'A', 'C', 'B');
+// big - O O(2^n - 1) == O(2^n)
