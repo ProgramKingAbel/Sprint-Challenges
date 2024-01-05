@@ -1,0 +1,15 @@
+/home/abel/Documents/projects/Practise/CsharpProects/TestProject/bin/Debug/net6.0/TestProject
+/home/abel/Documents/projects/Practise/CsharpProects/TestProject/bin/Debug/net6.0/TestProject.deps.json
+/home/abel/Documents/projects/Practise/CsharpProects/TestProject/bin/Debug/net6.0/TestProject.runtimeconfig.json
+/home/abel/Documents/projects/Practise/CsharpProects/TestProject/bin/Debug/net6.0/TestProject.dll
+/home/abel/Documents/projects/Practise/CsharpProects/TestProject/bin/Debug/net6.0/TestProject.pdb
+/home/abel/Documents/projects/Practise/CsharpProects/TestProject/obj/Debug/net6.0/TestProject.csproj.AssemblyReference.cache
+/home/abel/Documents/projects/Practise/CsharpProects/TestProject/obj/Debug/net6.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/abel/Documents/projects/Practise/CsharpProects/TestProject/obj/Debug/net6.0/TestProject.AssemblyInfoInputs.cache
+/home/abel/Documents/projects/Practise/CsharpProects/TestProject/obj/Debug/net6.0/TestProject.AssemblyInfo.cs
+/home/abel/Documents/projects/Practise/CsharpProects/TestProject/obj/Debug/net6.0/TestProject.csproj.CoreCompileInputs.cache
+/home/abel/Documents/projects/Practise/CsharpProects/TestProject/obj/Debug/net6.0/TestProject.dll
+/home/abel/Documents/projects/Practise/CsharpProects/TestProject/obj/Debug/net6.0/refint/TestProject.dll
+/home/abel/Documents/projects/Practise/CsharpProects/TestProject/obj/Debug/net6.0/TestProject.pdb
+/home/abel/Documents/projects/Practise/CsharpProects/TestProject/obj/Debug/net6.0/TestProject.genruntimeconfig.cache
+/home/abel/Documents/projects/Practise/CsharpProects/TestProject/obj/Debug/net6.0/ref/TestProject.dll
