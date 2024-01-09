@@ -1,0 +1,15 @@
+/home/abel/Documents/projects/Practise/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Starter/bin/Debug/net8.0/Starter
+/home/abel/Documents/projects/Practise/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Starter/bin/Debug/net8.0/Starter.deps.json
+/home/abel/Documents/projects/Practise/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Starter/bin/Debug/net8.0/Starter.runtimeconfig.json
+/home/abel/Documents/projects/Practise/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Starter/bin/Debug/net8.0/Starter.dll
+/home/abel/Documents/projects/Practise/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Starter/bin/Debug/net8.0/Starter.pdb
+/home/abel/Documents/projects/Practise/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Starter/obj/Debug/net8.0/Starter.GeneratedMSBuildEditorConfig.editorconfig
+/home/abel/Documents/projects/Practise/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Starter/obj/Debug/net8.0/Starter.AssemblyInfoInputs.cache
+/home/abel/Documents/projects/Practise/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Starter/obj/Debug/net8.0/Starter.AssemblyInfo.cs
+/home/abel/Documents/projects/Practise/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Starter/obj/Debug/net8.0/Starter.csproj.CoreCompileInputs.cache
+/home/abel/Documents/projects/Practise/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Starter/obj/Debug/net8.0/Starter.sourcelink.json
+/home/abel/Documents/projects/Practise/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Starter/obj/Debug/net8.0/Starter.dll
+/home/abel/Documents/projects/Practise/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Starter/obj/Debug/net8.0/refint/Starter.dll
+/home/abel/Documents/projects/Practise/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Starter/obj/Debug/net8.0/Starter.pdb
+/home/abel/Documents/projects/Practise/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Starter/obj/Debug/net8.0/Starter.genruntimeconfig.cache
+/home/abel/Documents/projects/Practise/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Starter/obj/Debug/net8.0/ref/Starter.dll
