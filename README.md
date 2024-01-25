@@ -1,4 +1,4 @@
-# Practise Makes Perfect 
+# MS-Sprint Challenges 
 - React/ES6
 - Algorithms and Data structures
 - Ruby
