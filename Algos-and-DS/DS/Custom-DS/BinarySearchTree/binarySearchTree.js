@@ -98,6 +98,22 @@ class BinarySearchTree {
 
         }
     }
+
+    min(root) {
+        if (!root.left) {
+            return root.value
+        } else {
+            return this.min(root.left)
+        }
+    }
+
+    max(root) {
+        if(!root.right) {
+            return root.value
+        } else {
+            return this.max(root.right)
+        }
+    }
 }
 
 const bst = new BinarySearchTree()
@@ -109,10 +125,12 @@ bst.insert(15)
 bst.insert(3)
 bst.insert(7)
 
-bst.levelOrder(bst.root)
+// bst.levelOrder(bst.root)
 // console.log(bst.search(bst.root, 10))
 // console.log(bst.search(bst.root, 5))
 // console.log(bst.search(bst.root, 15))
 // console.log(bst.search(bst.root, 10))
 // console.log(bst.search(bst.root, 3))
 // console.log(bst.search(bst.root, 7))
+console.log(bst.min(bst.root))
+console.log(bst.max(bst.root))
